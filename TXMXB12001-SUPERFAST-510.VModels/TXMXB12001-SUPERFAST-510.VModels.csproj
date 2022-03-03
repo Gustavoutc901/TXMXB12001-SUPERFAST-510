@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>TXMXB12001_SUPERFAST_510.VModels</RootNamespace>
+  </PropertyGroup>
+
+</Project>

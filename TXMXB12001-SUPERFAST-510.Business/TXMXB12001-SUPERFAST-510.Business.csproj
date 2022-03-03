@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>TXMXB12001_SUPERFAST_510.Business</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FastMember" Version="1.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TXMXB12001-SUPERFAST-510.DataAccess\TXMXB12001-SUPERFAST-510.DataAccess.csproj" />
+    <ProjectReference Include="..\TXMXB12001-SUPERFAST-510.Helpers\TXMXB12001-SUPERFAST-510.Helpers.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Vantis.SearchHash">
+      <HintPath>..\LIB\Vantis.SearchHash.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

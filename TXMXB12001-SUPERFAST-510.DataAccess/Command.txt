@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source=13.72.226.212,5002;Initial Catalog=DB_TXMXB12001_SUPERFAST;Persist Security Info=True;User ID=user_pretech;Password=GB>ZP3-YV2Sk8-fSB*KS-5KW3J@" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DB -Context ContextDb -UseDatabaseNames -DataAnnotations -Force -Table "tHeader510","tDetalle510","tAnexo510","tError510","tError510Info"

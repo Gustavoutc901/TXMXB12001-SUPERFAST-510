@@ -1,0 +1,13 @@
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Business\bin\Release\netstandard2.1\TXMXB12001-SUPERFAST-510.Business.deps.json
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Business\bin\Release\netstandard2.1\TXMXB12001-SUPERFAST-510.Business.dll
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Business\bin\Release\netstandard2.1\TXMXB12001-SUPERFAST-510.Business.pdb
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Business\bin\Release\netstandard2.1\TXMXB12001-SUPERFAST-510.DataAccess.dll
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Business\bin\Release\netstandard2.1\TXMXB12001-SUPERFAST-510.Helpers.dll
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Business\bin\Release\netstandard2.1\TXMXB12001-SUPERFAST-510.DataAccess.pdb
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Business\bin\Release\netstandard2.1\TXMXB12001-SUPERFAST-510.Helpers.pdb
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Business\obj\Release\netstandard2.1\TXMXB12001-SUPERFAST-510.Business.csprojAssemblyReference.cache
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Business\obj\Release\netstandard2.1\TXMXB12001-SUPERFAST-510.Business.AssemblyInfoInputs.cache
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Business\obj\Release\netstandard2.1\TXMXB12001-SUPERFAST-510.Business.AssemblyInfo.cs
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Business\obj\Release\netstandard2.1\TXMXB12001-SUPERFAST-510.Business.csproj.CopyComplete
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Business\obj\Release\netstandard2.1\TXMXB12001-SUPERFAST-510.Business.dll
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Business\obj\Release\netstandard2.1\TXMXB12001-SUPERFAST-510.Business.pdb

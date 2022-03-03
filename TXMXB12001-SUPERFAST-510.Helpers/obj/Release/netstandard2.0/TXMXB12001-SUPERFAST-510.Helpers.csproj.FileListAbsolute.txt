@@ -1,0 +1,8 @@
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Helpers\bin\Release\netstandard2.0\TXMXB12001-SUPERFAST-510.Helpers.deps.json
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Helpers\bin\Release\netstandard2.0\TXMXB12001-SUPERFAST-510.Helpers.dll
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Helpers\bin\Release\netstandard2.0\TXMXB12001-SUPERFAST-510.Helpers.pdb
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Helpers\obj\Release\netstandard2.0\TXMXB12001-SUPERFAST-510.Helpers.csprojAssemblyReference.cache
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Helpers\obj\Release\netstandard2.0\TXMXB12001-SUPERFAST-510.Helpers.AssemblyInfoInputs.cache
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Helpers\obj\Release\netstandard2.0\TXMXB12001-SUPERFAST-510.Helpers.AssemblyInfo.cs
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Helpers\obj\Release\netstandard2.0\TXMXB12001-SUPERFAST-510.Helpers.dll
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Helpers\obj\Release\netstandard2.0\TXMXB12001-SUPERFAST-510.Helpers.pdb

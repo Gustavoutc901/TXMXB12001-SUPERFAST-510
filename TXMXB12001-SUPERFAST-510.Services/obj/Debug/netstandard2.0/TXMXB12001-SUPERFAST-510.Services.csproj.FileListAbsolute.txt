@@ -1,0 +1,8 @@
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Services\bin\Debug\netstandard2.0\TXMXB12001-SUPERFAST-510.Services.deps.json
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Services\bin\Debug\netstandard2.0\TXMXB12001-SUPERFAST-510.Services.dll
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Services\bin\Debug\netstandard2.0\TXMXB12001-SUPERFAST-510.Services.pdb
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Services\obj\Debug\netstandard2.0\TXMXB12001-SUPERFAST-510.Services.csprojAssemblyReference.cache
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Services\obj\Debug\netstandard2.0\TXMXB12001-SUPERFAST-510.Services.AssemblyInfoInputs.cache
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Services\obj\Debug\netstandard2.0\TXMXB12001-SUPERFAST-510.Services.AssemblyInfo.cs
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Services\obj\Debug\netstandard2.0\TXMXB12001-SUPERFAST-510.Services.dll
+C:\Users\maprado\Documents\ENROLAMIENTO\510\txmxb12001-superfast-510\TXMXB12001-SUPERFAST-510\TXMXB12001-SUPERFAST-510.Services\obj\Debug\netstandard2.0\TXMXB12001-SUPERFAST-510.Services.pdb

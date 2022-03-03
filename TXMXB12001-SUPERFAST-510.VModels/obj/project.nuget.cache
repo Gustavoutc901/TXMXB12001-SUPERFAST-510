@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HVNabiqYEyPigNeRQYNZBFa2Wc4CMMHHaspATlkL67QURGAJJBeo7coGbSJkHi0TC2czqUOtXMENl4abrtB1eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GSOTO\\Documents\\Jeep\\TXMXB1907-JEPP.510-Production\\TXMXB12001-SUPERFAST-510.VModels\\TXMXB12001-SUPERFAST-510.VModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
